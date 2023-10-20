@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="443220b9-9db5-4326-9c8f-6104c8bf6102" name="Changes" comment="add backend">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/TeamApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/controller/ProjectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/model/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/model/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/model/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/repository/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/repository/ProjectRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/service/InterfaceBaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/service/implement/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/service/implement/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/service/implement/ProjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/utilities/PaginatedResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/example/utilities/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="443220b9-9db5-4326-9c8f-6104c8bf6102" name="Changes" comment="add backend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "backend",
-    "last_opened_file_path": "C:/WORK/ITMaster/itmaster/backend",
+    "last_opened_file_path": "C:/WORK/ITMaster/itmaster",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
 }]]></component>
